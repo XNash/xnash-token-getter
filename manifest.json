@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Cookie Viewer",
+  "name": "XNash Token Getter",
   "version": "1.0",
   "description": "Affiche les cookies du site actuel",
   "permissions": ["cookies", "activeTab"],
