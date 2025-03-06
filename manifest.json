@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "XNash Token Getter",
   "version": "1.0",
-  "description": "Affiche les cookies du site actuel",
+  "description": "Affiche et copie le token du site actuel",
   "permissions": ["cookies", "activeTab"],
   "host_permissions": ["<all_urls>"],
   "action": {
