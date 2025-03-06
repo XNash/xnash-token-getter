@@ -7,11 +7,6 @@
 
 ##### Et voilà! Vous avez récupéré votre token!
 
-###### Vous pouvez utiliser le token que vous venez de récupérer sur l'API officiel de Qwen:
-````
-https://chat.qwen.ai/api/chat/completions
-````
-
 ### Installation avec le zip et utilisation
 ![Capture d’écran 2025-03-06 210821](https://github.com/user-attachments/assets/ebef2111-d302-476b-b966-708250d8ad23)
 ![Capture d’écran 2025-03-06 210843](https://github.com/user-attachments/assets/bb1add7d-b9bc-44f8-b587-b9dfc96e3173)
